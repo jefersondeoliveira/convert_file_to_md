@@ -1,4 +1,4 @@
-# Conversor de PDF para Markdown
+# Conversor de Documento para Markdown
 
 Este script converte um arquivo PDF para Markdown e salva o resultado em um arquivo `.md` com o mesmo nome do arquivo original.
 
