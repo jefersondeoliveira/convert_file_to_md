@@ -16,8 +16,8 @@ pip install docling
 
 ## Como usar
 
-1. Certifique-se de que o arquivo PDF que deseja converter esteja no mesmo diretório do script.
-2. Altere o nome do arquivo na variável `source` conforme necessário.
+1. Adicione o path do arquivo que vai ser convertido em `source`.
+2. O arquivo pode ser de qualquer tipo, incluindo documentos como PDF, DOCX, XLSX, HTML ou outros formatos, podendo estar localizado localmente ou online.
 3. Execute o script Python.
 4. O arquivo convertido será salvo no mesmo diretório com a extensão `.md`.
 
